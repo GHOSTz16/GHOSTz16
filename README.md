@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GHOSTz16
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning JS
+- 📫 How to reach me: Discord (ghostz_16)
